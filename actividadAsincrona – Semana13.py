@@ -27,7 +27,7 @@ def ejecutar_programa():
             "Lisandro": {"nombres": " Jose Lisandro ", "apellidos": "Ramos Dominguez", "sexo": "Masculino", "edad": 19, "departamento": "Chalatenango", "municipio": " Concepcion quezaltepeque ", "dirección": "El sur de california papa"},
             "Fatima": {"nombres": "Fatima Estefany ", "apellidos": "Rivas Lopez", "sexo": "Femenino", "edad": 18, "departamento": "Chalatenango", "municipio": "por ahi ", "dirección": "Donde la luz del sol no llega"},
             "Xavier": {"nombres": " Xavier Ernesto ", "apellidos": " Rivera Gonzales ", "sexo": "Masculino", "edad": 17, "departamento": "Cuscatlan ", "municipio": "Suchitoto", "dirección": "Calle 8, Johannesburgo Sudafrica"},
-            "Edgar": {"nombres": "Edgar Rene ", "apellidos": "Rivas Castro", "sexo": "si porfavor", "edad": 24, "departamento": "Lima", "municipio": "San Borja", "dirección": "Av. Aviación 1010"}
+            "Edgar": {"nombres": "Edgar Rene ", "apellidos": "Rivas Castro", "sexo": "si porfavor", "edad": 24, "departamento": "Chalatenango", "municipio": "por ahi", "dirección": "Av. Aviación 1010"}
                 }
 # Verificar si el nombre elegido está en la lista de nombres
         if nombre_elegido in nombres:
